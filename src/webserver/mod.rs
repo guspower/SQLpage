@@ -44,4 +44,5 @@ pub use database::make_placeholder;
 pub use database::migrations::apply;
 pub mod response_writer;
 pub mod routing;
+pub mod uri_template;
 mod static_content;

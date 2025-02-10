@@ -3127,6 +3127,7 @@ dependencies = [
  "password-hash",
  "percent-encoding",
  "rand",
+ "regex",
  "rustls",
  "rustls-acme",
  "rustls-native-certs",
